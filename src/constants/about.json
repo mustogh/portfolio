@@ -1,5 +1,5 @@
 ﻿{
-  "name": "Hakan Dursun",
+  "name": "Mustafa Kibar",
   "title": "Software Engineer",
   "description": "Ben Hakan Dursun, yazılım geliştirme alanında tutkulu ve deneyimli bir\nprofesyonelim. Yaratıcı çözümler üretme konusundaki tutkum ve teknik\nbilgim ile birleşerek, çeşitli projelerde önemli başarılar elde ettim. Hem\nbireysel olarak hem de ekip içinde çalışma yeteneğine sahibim ve her\nzaman yeni teknolojilere açık olmayı hedefliyorum.",
   "experience": [
@@ -14,6 +14,12 @@
       "company": "Marsis Bilişim Teknolojileri Sanayi ve Ticaret A.Ş",
       "role": "Frontend Developer",
       "duration": "Şubat 2022 - Mart 2023"
+    },
+    {
+      "id": 13546,
+      "company": "Eteration Bilişim Çözümleri A.Ş.",
+      "role": "Software Developer",
+      "duration": "Mart 2023- Present"
     }
   ],
   "education": [
